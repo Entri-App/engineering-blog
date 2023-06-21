@@ -9,16 +9,6 @@
       <url>https://engineering.entri.team/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://engineering.entri.team/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://engineering.entri.team/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Empowering Cost-Efficiency: How ffmpeg Revolutionized Our Video Transcoding Pipeline</title>
-      <link>https://engineering.entri.team/posts/mpeg-dash-streaming/</link>
-      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://engineering.entri.team/posts/mpeg-dash-streaming/</guid>
-      <description>Discover how Entri&amp;#39;s use of ffmpeg revolutionized their video transcoding pipeline, resulting in significant cost savings and enhanced video delivery. </description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://engineering.entri.team/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

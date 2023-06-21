@@ -9,43 +9,6 @@
       <url>https://engineering.entri.team/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://engineering.entri.team/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://engineering.entri.team/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ffmpeg</title>
-      <link>https://engineering.entri.team/tags/ffmpeg/</link>
-      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://engineering.entri.team/tags/ffmpeg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mpeg-dash</title>
-      <link>https://engineering.entri.team/tags/mpeg-dash/</link>
-      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://engineering.entri.team/tags/mpeg-dash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>opensource</title>
-      <link>https://engineering.entri.team/tags/opensource/</link>
-      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://engineering.entri.team/tags/opensource/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>video streaming</title>
-      <link>https://engineering.entri.team/tags/video-streaming/</link>
-      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://engineering.entri.team/tags/video-streaming/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://engineering.entri.team/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
