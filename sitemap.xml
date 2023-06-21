@@ -2,10 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://engineering.entri.team/categories/</loc>
+    <loc>https://engineering.entri.team/posts/mpeg-dash-streaming/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://engineering.entri.team/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://engineering.entri.team/tags/ffmpeg/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://engineering.entri.team/tags/mpeg-dash/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://engineering.entri.team/tags/opensource/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://engineering.entri.team/posts/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://engineering.entri.team/tags/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://engineering.entri.team/tags/video-streaming/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://engineering.entri.team/categories/</loc>
   </url>
 </urlset>

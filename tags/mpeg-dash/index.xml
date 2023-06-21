@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Entri Engineering Blog</title>
-    <link>https://engineering.entri.team/</link>
-    <description>Recent content on Entri Engineering Blog</description>
+    <title>mpeg-dash on Entri Engineering Blog</title>
+    <link>https://engineering.entri.team/tags/mpeg-dash/</link>
+    <description>Recent content in mpeg-dash on Entri Engineering Blog</description>
     <image>
       <title>Entri Engineering Blog</title>
       <url>https://engineering.entri.team/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://engineering.entri.team/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://engineering.entri.team/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://engineering.entri.team/tags/mpeg-dash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Empowering Cost-Efficiency: How ffmpeg Revolutionized Our Video Transcoding Pipeline</title>
       <link>https://engineering.entri.team/posts/mpeg-dash-streaming/</link>
